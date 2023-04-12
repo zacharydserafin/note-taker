@@ -16,6 +16,8 @@ A simple application to write and store notes using express.js.
 
 Once on the homepage, touch the center button to get started. Then, you must type something in the title and description box on the right side of the page. Once you do, you can click the save icon in the upper right corner to save the note to the sidebar on the left. To remove a note from the sidebar, click the red delete icon next to the note you want to remove.
 
+<a href="https://aqueous-everglades-62283.herokuapp.com/">Link to Deployed Application</a>
+
 ## <a id="license"></a>License 
 
 No license provided.
