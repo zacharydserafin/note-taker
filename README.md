@@ -18,6 +18,8 @@ Once on the homepage, touch the center button to get started. Then, you must typ
 
 <a href="https://aqueous-everglades-62283.herokuapp.com/">Link to Deployed Application</a>
 
+<img src="./screenshot.png" width="100%" height="100%" alt="Screenshot of deployed webpage"/>
+
 ## <a id="license"></a>License 
 
 No license provided.
